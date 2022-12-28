@@ -1,1 +1,1 @@
-# Oasis Infobyte java development Internship 
+# Oasis Infobyte Java Development Internship 
